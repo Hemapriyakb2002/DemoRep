@@ -1,0 +1,22 @@
+.example-form {
+    min-width: 450px;
+    max-width: 500px;
+    background-color: rgb(252, 214, 237);
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 200px;
+    margin-left: 400px;
+    color: #5d3da8;
+  }
+  .example-button-row {
+    max-width: 600px;
+    margin-left: 600px;
+    
+  }
+  #b-color{
+    background-color: rgb(212, 100, 167);
+  }
+  .example-full-width {
+    width: 100%;
+  }
+  
